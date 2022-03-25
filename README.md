@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neraverin
 - 👀 I am interested in product management and investment 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫 My contacts:
   - neraverin@gmail.com
   - https://www.facebook.com/vladimir.salykin/
