@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Neraverin
-- 👀 I am interested in product management and investment 
-- 🌱 I’m currently learning Python and JavaScript
+- 👀 I am interested in product management, investment, security and highload applications 
+- 🌱 I’m currently learning/using:
+  - Python
+  - JavaScript/TypeScript (Node.js, Next.js, Mantine UI)
+  - Golang
+  - Terraform
 - 📫 My contacts:
   - neraverin@gmail.com
   - https://www.facebook.com/vladimir.salykin/
